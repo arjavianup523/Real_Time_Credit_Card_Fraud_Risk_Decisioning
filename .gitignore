@@ -1,0 +1,10 @@
+
+.venv/
+*.csv
+*.pkl
+*.h5
+*.zip
+*.ipynb_checkpoints/
+
+
+docker_packages/
